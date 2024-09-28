@@ -1,0 +1,48 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.multicall-container {
+}
+
+.multicall-container h4 {
+  margin-right: 10px;
+}
+
+.row  {
+  display: flex;
+  align-items: center;
+  max-width: 70%;
+  display: flex;
+  padding: 0;
+  margin: 0;}
+
+.container {
+  text-align: center;
+  max-width: 70%;
+  margin: 30px auto;
+  padding: 10px auto;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+.error {
+  background-color: #ffcccc;
+  border-radius: 5px;
+}
+
+.success {
+  background-color: #e6ffe6;
+  border-radius: 5px;
+}
